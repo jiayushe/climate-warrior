@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "name": "Supreme Crown",
+    "picture": "images/crown.png",
+    "star": 10000,
+    "price": "DAI 10000"
+  },
+  {
+    "id": 1,
+    "name": "Golden Badge",
+    "picture": "images/medal-1.png",
+    "star": 1000,
+    "price": "DAI 1000"
+  },
+  {
+    "id": 2,
+    "name": "Silver Badge",
+    "picture": "images/medal-2.png",
+    "star": 100,
+    "price": "DAI 100"
+  },
+  {
+    "id": 3,
+    "name": "Bronze Badge",
+    "picture": "images/medal-3.png",
+    "star": 10,
+    "price": "DAI 10"
+  },
+  {
+    "id": 4,
+    "name": "Heaven",
+    "picture": "images/mountain.png",
+    "star": 8,
+    "price": "DAI 8"
+  },
+  {
+    "id": 5,
+    "name": "Medal",
+    "picture": "images/medal-top.png",
+    "star": 7,
+    "price": "DAI 7"
+  },
+  {
+    "id": 6,
+    "name": "Trophy",
+    "picture": "images/trophy.png",
+    "star": 6,
+    "price": "DAI 6"
+  },
+  {
+    "id": 7,
+    "name": "Star",
+    "picture": "images/star-leaf.png",
+    "star": 5,
+    "price": "DAI 5"
+  },
+  {
+    "id": 8,
+    "name": "Medal-SE",
+    "picture": "images/medal.png",
+    "star": 4,
+    "price": "DAI 4"
+  },
+  {
+    "id": 9,
+    "name": "Star-SE",
+    "picture": "images/star.png",
+    "star": 4,
+    "price": "DAI 4"
+  },
+  {
+    "id": 10,
+    "name": "Green-badge",
+    "picture": "images/tree.png",
+    "star": 4,
+    "price": "DAI 4"
+  },
+  {
+    "id": 11,
+    "name": "Torch",
+    "picture": "images/torch.png",
+    "star": 4,
+    "price": "DAI 4"
+  },
+  {
+    "id": 12,
+    "name": "Medal-S",
+    "picture": "images/medal-capt.png",
+    "star": 3,
+    "price": "DAI 3"
+  },
+  {
+    "id": 13,
+    "name": "Diamond",
+    "picture": "images/diamond.png",
+    "star": 3,
+    "price": "DAI 3"
+  },
+  {
+    "id": 14,
+    "name": "Flame",
+    "picture": "images/flame.png",
+    "star": 2,
+    "price": "DAI 2"
+  },
+  {
+    "id": 15,
+    "name": "Heart",
+    "picture": "images/heart.png",
+    "star": 1,
+    "price": "DAI 1"
+  }
+]
